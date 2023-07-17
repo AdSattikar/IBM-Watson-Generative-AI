@@ -162,3 +162,5 @@ cython_debug/
 *.pdf
 *.txt
 /.venv
+/.env
+OpenAI/*
