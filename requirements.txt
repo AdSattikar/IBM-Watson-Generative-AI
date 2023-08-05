@@ -1,7 +1,0 @@
-win32com
-SpeechRecognition
-webbrowser
-datetime
-openai
-requests
-python-dotenv
